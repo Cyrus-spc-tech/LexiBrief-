@@ -1,22 +1,15 @@
 # LexiBrief-
 
-A brief description of what LexiBrief does. (e.g., "An AI-powered tool for legal document summarization.")
+A comprehensive Python-based NLP toolkit for legal document analysis and summarization with extractive, abstractive, and hybrid methods.
 
 ## 🚀 Features
-* Feature 1: Brief description
-* Feature 2: Brief description
-* Feature 3: Brief description
 
-## 🛠️ Tech Stack
-* **Frontend:** React/Next.js (as seen in your /Frontend folder)
-* **Backend:** Node.js/Python (as seen in your /Backend folder)
+* Legal Text Processing
+* Extractive Summarization
+* Abstractive Summarization
+* Hybrid Approaches
+* Evaluation Framework
 
-## 📦 Getting Started
-
-### Prerequisites
-* List any required software (e.g., Node.js, Docker)
-
-### Installation
-1. Clone the repo:
-   ```bash
-   git clone [https://github.com/Dhairyaahuja/LexiBrief-.git](https://github.com/Dhairyaahuja/LexiBrief-.git)
+> #### Collab Link:
+>
+> https://colab.research.google.com/drive/1QrR3fJJ1dy9JoUBi9lKXSBsEoqYyMFSw?usp=sharing

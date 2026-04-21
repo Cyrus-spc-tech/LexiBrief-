@@ -23,5 +23,5 @@ Final Structured Output
 ```
 
 
-> Collab notebook file : 
+> Colab notebook file : 
 > https://colab.research.google.com/drive/1QrR3fJJ1dy9JoUBi9lKXSBsEoqYyMFSw?usp=sharing
